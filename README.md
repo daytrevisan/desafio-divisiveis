@@ -16,5 +16,5 @@
 Retorno: 23, o qual representa a soma de 3, 5, 6 e 9
 
 ### Limpeza dos Campos
-
+A limpeza dos campos é efetuada a partir do botão *Limpar*
 <img width="387" alt="image" src="https://github.com/daytrevisan/desafio-divisiveis/assets/110201520/07f655f7-6a95-4159-b20f-d57e4dd6d5eb">
