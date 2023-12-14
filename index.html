@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio Escribo | Soma de Divisíveis</title>
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Open+Sans:wght@300;400;700&family=Poppins:wght@400;500;700&family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header class="topo">
+        <div class="div-topo-img">
+            <img src="./img/topo-escribo.jpeg" alt="Logo Topo Escribo" class="topo-img">
+        </div>
+    </header>
+
+    <div class="div-main">
+        <div class="div-title">Soma dos divisíveis de um número</div>
+        <form id="form-input">
+            <img src="./img/escribo-logo2.png" alt="Logo ícone Escribo" class="img-input">
+            <p class="input-lbl">Digite um número inteiro positivo</p>
+            <div class="input-input">
+                <input id="user-number" class="txt-input" type="number">
+                <button id="btn-calculate" class="btn" type="submit" onclick="calculate()">Calcular</button>
+            </div>
+            <p class="result-lbl">A soma é:</p>
+            <div class="result-input">
+                <p id="result-show" class="txt-input"></p>
+                <button id="btn-reset" class="btn" type="reset" onclick="clear()">Limpar</button>
+            </div>
+        </form>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
