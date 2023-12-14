@@ -3,7 +3,7 @@
 ### Descrição: Este programa valida se um número inserido é inteiro e positivo e retorna com a soma dos divisíveis por 3 e por 5 que sejam menores que o número informado.
 
 ## Tela inicial
-<img width="386" alt="image" src="https://github.com/daytrevisan/desafio-divisiveis/assets/110201520/c5968fea-5c11-494e-8e50-dd6e8cf2ab4d
+<img width="386" alt="image" src="https://github.com/daytrevisan/desafio-divisiveis/assets/110201520/c5968fea-5c11-494e-8e50-dd6e8cf2ab4d">
 
 ## Funcionamento
 
